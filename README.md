@@ -9,7 +9,7 @@ Junior Offensive Security Specialist | Purple Team Focus | Python Developer
 
     🔍 Purple Teaming: Developing offensive tools in Python and analyzing their detection via SIEM.
 
-    🧠 Philosophy: "No zero days." Consistent, practical learning over theoretical certificates.
+    🧠 Philosophy: "There is more than meet the eye.
 
 🛠️ Arsenal & Technologies
 
@@ -40,15 +40,4 @@ Core Development & Web Stack (Code Review Context)
 
     🛡️ Purple Team SIEM Lab: Custom script execution and its corresponding detection/log analysis using Splunk Enterprise.
 
-    📝 HTB Write-ups: Detailed, corporate-style reports on compromised boxes (Linux/Windows).
-
-<div align="center">
-📊 GitHub Activity
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.shion.dev/api%3Fusername%3DUchaLM%26theme%3Dtokyonight%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats" />
-
-<img src="https://www.google.com/search?q=https://streak-stats.demolab.com/%3Fuser%3DUchaLM%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Streak" />
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.shion.dev/api/top-langs/%3Fusername%3DUchaLM%26theme%3Dtokyonight%26hide_border%3Dtrue%26layout%3Dcompact" alt="Top Languages" />
-
-</div>
+    📝 Write-ups: Detailed, corporate-style reports on compromised boxes (Linux/Windows).
